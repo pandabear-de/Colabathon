@@ -10,5 +10,7 @@ Additional Packages installed:
 
 To run:
 ```react-native init Collabathon``` <-- directory name
+
 ```cd Collabathon```
+
 ```react-native run-ios```or ```react-native run-android```
