@@ -9,7 +9,6 @@ Additional Packages installed:
 ```npm i --save react-native-speech```
 
 To run:
-```react-native init Collabathon``` <-- directory name
 
 ```cd Collabathon```
 
